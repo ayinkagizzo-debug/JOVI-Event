@@ -1,0 +1,175 @@
+index.html
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>Jovi Event | Organisation d'événements à Roubaix</title>
+
+  <meta
+    name="description"
+    content="Jovi Event organise vos mariages, anniversaires, cérémonies et événements professionnels à Roubaix : protocole, traiteur, DJ et MC."
+  >
+
+  <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+
+  <header class="header">
+    <div class="container header-content">
+
+      <a href="index.html" class="logo">JOVI EVENT</a>
+
+      <nav class="nav">
+        <a href="index.html">Accueil</a>
+        <a href="reservation.html">Réservation</a>
+        <a href="contact.html">Contact</a>
+      </nav>
+
+      <a
+        class="btn btn-whatsapp"
+        href="[wa.me](https://wa.me/33758540546)"
+      >
+        WhatsApp
+      </a>
+
+    </div>
+  </header>
+
+  <main>
+
+    <section class="hero">
+      <div class="container">
+
+        <h1>Votre événement, organisé avec soin</h1>
+
+        <p>
+          Nous vous accompagnons dans l'organisation de mariages,
+          anniversaires, cérémonies et événements professionnels.
+          Choisissez votre date et composez votre formule parmi nos
+          services de protocole, cuisine-traiteur, DJ et MC.
+        </p>
+
+        <div class="hero-buttons">
+
+          <a href="reservation.html" class="btn btn-gold">
+            Vérifier les disponibilités
+          </a>
+
+          <a href="contact.html" class="btn btn-outline">
+            Demander un devis gratuit
+          </a>
+
+        </div>
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="container">
+
+        <h2>Nos services</h2>
+
+        <p class="section-text">
+          Sélectionnez uniquement les prestations dont vous avez besoin.
+        </p>
+
+        <div class="services-grid">
+
+          <article class="service-card">
+            <h3>Protocole</h3>
+            <p>
+              Accueil des invités, placement, coordination et gestion
+              du programme.
+            </p>
+            <a href="reservation.html" class="btn btn-small">
+              Réserver
+            </a>
+          </article>
+
+          <article class="service-card">
+            <h3>Cuisine et traiteur</h3>
+            <p>
+              Menus, buffet, boissons, service à table et personnel.
+            </p>
+            <a href="reservation.html" class="btn btn-small">
+              Réserver
+            </a>
+          </article>
+
+          <article class="service-card">
+            <h3>DJ</h3>
+            <p>
+              Sonorisation, musique et animation de la piste de danse.
+            </p>
+            <a href="reservation.html" class="btn btn-small">
+              Réserver
+            </a>
+          </article>
+
+          <article class="service-card">
+            <h3>MC</h3>
+            <p>
+              Présentation, annonces et coordination des moments importants.
+            </p>
+            <a href="reservation.html" class="btn btn-small">
+              Réserver
+            </a>
+          </article>
+
+        </div>
+      </div>
+    </section>
+
+    <section class="section section-dark">
+      <div class="container">
+
+        <h2>Réservez votre événement avec Jovi Event</h2>
+
+        <p>
+          Sélectionnez votre date et les services dont vous avez besoin :
+          protocole, cuisine-traiteur, DJ ou MC. Recevez gratuitement un
+          devis personnalisé. Votre réservation sera confirmée après
+          validation du devis et paiement d'un acompte de 30 %.
+        </p>
+
+        <p>
+          Le paiement complet en ligne est également possible.
+        </p>
+
+        <a href="reservation.html" class="btn btn-gold">
+          Organiser mon événement
+        </a>
+
+      </div>
+    </section>
+
+  </main>
+
+  <footer class="footer">
+    <div class="container">
+
+      <p>
+        <strong>Jovi Event</strong> - Roubaix et environs
+      </p>
+
+      <p>Responsable : Gisele Ayinkamiye</p>
+
+      <p>
+        Téléphone / WhatsApp :
+        <a href="tel:+33758540546">07 58 54 05 46</a>
+      </p>
+
+      <p>
+        E-mail :
+        <a href="mailto:ayinkagizzo@gmail.com">
+          ayinkagizzo@gmail.com
+        </a>
+      </p>
+
+    </div>
+  </footer>
+
+</body>
+</html>
